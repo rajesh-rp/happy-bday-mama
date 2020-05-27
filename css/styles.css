@@ -47,10 +47,10 @@ p
 	text-align: center;
 	width: 100%;
 }
-.wish-image
+.col
 {
-
-	 width: 100%;
+	padding-left: 0;
+	padding-right: 0;
 }
 .wish-image
 {
