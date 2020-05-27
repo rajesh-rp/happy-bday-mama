@@ -1,34 +1,13 @@
-.fire-wish
+body
 {
-	padding-bottom: 50px;
+	margin: 0;
+	padding: 0;
 }
-.wish{
-	text-align: center;
-	width: 100%;
-}
-.wish-image{
+div
+{
 
-	 width: 100%;
-}
-.top-container
-{
-	
-}
-.wish-image{
-	width: 100%;
-}
-.mid-container
-{
-	width: 100%;
-	background-color: #ffcbcb;
-	padding-top: 50px;
-	text-align: center;
-}
-.mid-bday-image
-{
-	height: 300px;
-	width: 300px;
-	border-radius: 20%;
+	padding: 0;
+	margin: 0;
 }
 h1
 {
@@ -43,18 +22,53 @@ p
 	width: 60%;
 	font-family: 'Sacramento', cursive;
 }
-.transition-div
-{
-
-
-}
-.transition-image
-{
-	width: 300px;
-	height: 300px;
-}
 .bottom-container
 {
 	padding: 50px 0;
+}
+.top-div
+{
+	padding: 0;
+}
+.transition
+{
+   padding: 0;
+}
+.mid-container
+{
+	padding: 50px 0;
+}
+.bottom-container
+{
 	text-align: center;
+}
+.wish
+{
+	text-align: center;
+	width: 100%;
+}
+.wish-image
+{
+
+	 width: 100%;
+}
+.wish-image
+{
+	width: 100%;
+}
+.mid-container
+{
+	background-color: #ffcbcb;
+	text-align: center;
+}
+.mid-bday-image
+{
+	height: 300px;
+	width: 300px;
+	border-radius: 20%;
+}
+.transition-image
+{
+	height: 300px;
+	width: 100%;
 }
